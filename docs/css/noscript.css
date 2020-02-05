@@ -1,0 +1,15 @@
+.dx{
+    display:none;
+    } 
+    .r1{
+        color: blue;
+         font-size: 21px;
+          font-family: monospace;
+          font-weight: bold;
+          }
+          .r2{
+              color: red;
+               text-decoration-line: underline;
+                font-size: 21px;
+                 font-family: monospace;
+                 }
