@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
-<html lang="tr" data-ng-app>
+<html lang="tr" data-ng-app> <!-- Angular uygulamamızın geçerli olucağı sınırları belirliyoruz -->
     <head>
-        <link rel="stylesheet" media="screen" href="css/normalize.css">
+        <link rel="stylesheet" media="screen" href="css/normalize.css"> <!-- normalize.css (zorunlu değil) -->
         <link rel="icon" media="all" href="favicon.ico">
         <link rel="stylesheet" media="screen" href="css/style.css">
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -35,21 +35,21 @@
     <table class="tablex">
         <tr align="center" class="trxx">
             <th>
-<input type="number" class="s" data-ng-model="s1" />
+<input type="number" class="s" data-ng-model="s1" /> <!-- Değişkenimizi inputa bağlıyoruz -->
 <br />
 <br />
 <input type="number" class="s" data-ng-model="s2" />
 <br />
 <br />
-<h4 class="w">{{s1}} + {{s2}} = {{s1+s2}}</h4>
+<h4 class="w">{{s1}} + {{s2}} = {{s1+s2}}</h4> <!-- "{{s1}}" şeklinde yazarak "s1" değişkenimizi ekrana basıyoruz -->
 
 <hr />
 <br />
-<h4 class="w">{{s1}} - {{s2}} = {{s1-s2}}</h4>
+<h4 class="w">{{s1}} - {{s2}} = {{s1-s2}}</h4> <!-- "{{s1-s2}}" şeklinde yazarak birden fazla değişkenin toplanması, çıkarılması, çarpılması veya bölünmesini sağlıyoruz -->
 <br />
 <hr />
 <br />
-<h4 class="w">{{s1}} x {{s2}} = {{s1*s2}}</h4>
+<h4 class="w">{{s1}} x {{s2}} = {{s1*s2}}</h4> <!-- Toplama(+), çıkarma(-), çarpma(*), bölme(/) -->
 <br />
 <hr />
 <br />
@@ -57,7 +57,7 @@
 <br />
 <hr />
 <br />
-<h4 class="w">{{s1}} % {{s2}} = {{s1*s2/100}}</h4>
+<h4 class="w">{{s1}} % {{s2}} = {{s1*s2/100}}</h4> <!-- Birden fazla işlem yapmak da mümkün -->
 <br />
 <hr />
 <br />
@@ -83,5 +83,5 @@
     <link rel="stylesheet" href="css/noscript.css">
     </noscript>
         </body>
-<script src="script/angular.js"></script>
+<script src="script/angular.js"></script> <!-- angular.js (zorunlu) -->
                 </html>
