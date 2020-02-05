@@ -2,10 +2,10 @@
 
 Angularjs ile Basit Hesap Makinesi Örneği
 
-PROJECT WEB ADDRESS: <strong><a href="https://wstatic.github.io/hizlihesap/" target="_blank">https://wstatic.github.io/hizlihesap/</a></strong>
+PROJECT WEB ADDRESS: <strong>https://wstatic.github.io/hizlihesap/</strong>
 
-PROJECT SOURCE: <strong><a href="https://github.com/wstatic/hizlihesap/" target="_blank">https://github.com/wstatic/hizlihesap/</a></strong>
+PROJECT SOURCE: <strong>https://github.com/wstatic/hizlihesap/</strong>
 
 LICENSE NAME: <strong>MIT</strong> 
 
-LICENSE SOURCE: <strong><a href="https://github.com/wstatic/hizlihesap/blob/master/LICENSE">https://github.com/wstatic/hizlihesap/blob/master/LICENSE</a></strong>
+LICENSE SOURCE: <strong>https://github.com/wstatic/hizlihesap/blob/master/LICENSE</strong>
