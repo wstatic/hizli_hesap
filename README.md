@@ -6,6 +6,6 @@ PROJECT WEB ADDRESS: https://wstatic.github.io/hizlihesap/
 
 PROJECT SOURCE: https://github.com/wstatic/hizlihesap/
 
-LICENSE: MIT 
+LICENSE TYPE: MIT 
 
 LICENSE SOURCE: https://github.com/wstatic/hizlihesap/blob/master/LICENSE
