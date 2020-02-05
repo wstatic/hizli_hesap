@@ -1,4 +1,4 @@
-# Hızlıhesap
+# hizlihesap
 
 Angularjs ile Basit Hesap Makinesi Örneği:
 
