@@ -1,6 +1,6 @@
 # hizlihesap
 
-Angularjs ile Basit Hesap Makinesi Örneği
+<strong>Angularjs ile Basit Hesap Makinesi Örneği</strong>
 
 PROJECT WEB ADDRESS: <strong>https://wstatic.github.io/hizlihesap/</strong>
 
