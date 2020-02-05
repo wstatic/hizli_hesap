@@ -2,7 +2,9 @@
 
 Angularjs ile Basit Hesap Makinesi Örneği
 
-WEB: https://wstatic.github.io/hizlihesap/
+PROJECT WEB ADDRESS: https://wstatic.github.io/hizlihesap/
+
+PROJECT SOURCE: https://github.com/wstatic/hizlihesap/
 
 LICENSE: MIT 
 
