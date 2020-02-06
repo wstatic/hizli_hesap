@@ -4,7 +4,6 @@
   <details>
     <summary>PROJECT INFO</summary>
     <p>
-      <br>
 PROJECT WEB ADDRESS: <strong>https://wstatic.github.io/hizlihesap/</strong>
 <br>
 <br>
