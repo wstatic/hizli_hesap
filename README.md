@@ -4,6 +4,7 @@
 <p>
   <details>
     <summary><button><strong>PROJECT INFO</strong></button></summary>
+    <hr>
     <br>
 PROJECT WEB ADDRESS: <strong>https://wstatic.github.io/hizlihesap/</strong>
 <br>
