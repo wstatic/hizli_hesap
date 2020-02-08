@@ -2,7 +2,7 @@
 <strong>Angularjs ile Basit Hesap Makinesi Örneği</strong>
 <p>
   <details>
-    <summary><button><strong>PROJECT INFO</strong></button></summary>
+    <summary><strong>PROJECT INFO</strong></summary>
     <br>
 PROJECT WEB ADDRESS: <strong>https://wstatic.github.io/hizli_hesap/</strong>
 <br>
