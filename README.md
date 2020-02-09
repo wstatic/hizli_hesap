@@ -21,7 +21,7 @@ PROJECT SOURCE: <strong><a href="https://github.com/wstatic/hizli_hesap/" target
 LICENSE: <strong><a href="https://github.com/wstatic/hizli_hesap/blob/master/LICENSE" target="_blank"> https://github.com/wstatic/hizli_hesap/blob/master/LICENSE</a></strong>
   <br>
   <br>
-  SITE MAP: <strong><a href="https://github.com/wstatic/hizli_hesap/blob/master/sitemap.xml" target="_blank">https://github.com/wstatic/hizli_hesap/blob/master/sitemap.xml</a></strong>
+  SITE MAP: <strong><a href="https://github.com/wstatic/hizli_hesap/blob/master/sitemap.xml" target="_blank">https://github.com/wstatic/hizli_hesap/blob/master/docs/sitemap.xml</a></strong>
     <br>
     <br>
     README.md FILE: <strong><a href="https://github.com/wstatic/hizli_hesap/blob/master/README.md" target="_blank">https://github.com/wstatic/hizli_hesap/blob/master/README.md</a></strong>
