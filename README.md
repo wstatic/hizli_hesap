@@ -12,7 +12,7 @@
 PROJECT WEB ADDRESS: <strong><a href="https://wstatic.github.io/hizli_hesap/" target="_blank">https://wstatic.github.io/hizli_hesap/</a></strong>
 <br>
   <br>
-PROJECT SOURCE: <strong><a href="https://github.com/wstatic/hizli_hesap/" target="_blank">https://github.com/wstatic/hizli_hesap/</a></strong>
+PROJECT: <strong><a href="https://github.com/wstatic/hizli_hesap/" target="_blank">https://github.com/wstatic/hizli_hesap/</a></strong>
 <br>
   <br>
   LICENSE NAME: <strong>MIT</strong>
