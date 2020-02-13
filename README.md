@@ -1,6 +1,17 @@
-# Hızlı Hesap
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8/normalize.min.css" media="all">
-<strong>Angularjs ile Basit Hesap Makinesi Örneği</strong>
+# Hızlı Hesap: Angularjs ile Basit Hesap Makinesi Örneği
+<strong>
+<br><h2>
+  ÖNEMLİ BİLGİLER:</h2>
+  <h3>
+  * Değişkenler, fonksiyonlar vb.. Türkçe karakter kullanmayın
+    <br>
+* En son Angular.js stabil sürümü kullanmaya özen gösterin
+  </h3>
+   ## Angular uygulamamızın geçerli olucağı sınırları belirlirleme
+  ```
+  <html data-ng-app>
+```
+  </strong>
 <p>
   <details>
   <summary><button><strong>PROJECT INFO</strong></button></summary>
