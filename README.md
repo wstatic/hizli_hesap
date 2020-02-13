@@ -13,7 +13,7 @@
   ```
   <html data-ng-app>
 ```
-## Değişkenimizi inputa bağlıyoruz:
+## Değişkenimizi inputa bağlama:
 ```
 <input data-ng-model="s1">
 ```
