@@ -1,5 +1,5 @@
 # Hızlı Hesap: Angularjs ile Basit Hesap Makinesi Örneği
-<strong>
+
 <br><h2>
   ÖNEMLİ BİLGİLER:</h2>
   <h3>
@@ -11,7 +11,6 @@
   ```
   <html data-ng-app>
 ```
-  </strong>
 <p>
   <details>
   <summary><button><strong>PROJECT INFO</strong></button></summary>
