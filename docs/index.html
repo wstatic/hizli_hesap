@@ -1,11 +1,13 @@
 ﻿<!--
-ÖNEMLİ BİLGİLER: 
-* !!! Değişkenler, fonksiyonlar vb.. Türkçe karakter kullanmayın !!!
+ÖNEMLİ BİLGİLER:
+* Değişkenler, fonksiyonlar vb.. Türkçe karakter kullanmayın
 * En son Angular.js stabil sürümü kullanmaya özen gösterin
 * Toplama(+), çıkarma(-), çarpma(*), bölme(/)
+* Angular.js kullanırken async ile çağırmayınız
+* Data-ng w3 schools ve resmi websitesinin önerdiği okumanın rahat olduğu biçimdir istenirse sadece ng ile de başlanabilir
 -->
 <!DOCTYPE html>
-<html lang="tr" data-ng-app> <!-- Angular uygulamamızın geçerli olucağı sınırları belirliyoruz -->
+<html lang="tr" data-ng-app> <!-- Angular uygulamamızın geçerli olucağı sınırları belirlirlemek -->
     <head>
         <link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/normalize.css@8/normalize.min.css"> <!-- Normalize.css (zorunlu değil) -->
         <link rel="icon" media="all" href="favicon.ico">
@@ -38,16 +40,16 @@
     <table class="tablex">
         <tr align="center" class="trxx">
             <th>
-<input type="number" class="s" data-ng-model="s1"> <!-- Değişkenimizi inputa bağlıyoruz -->
+<input type="number" class="s" data-ng-model="s1"> <!-- Değişkenimizi inputa bağlamak -->
 <br>
 <br>
 <input type="number" class="s" data-ng-model="s2">
 <br>
 <br>
-<h4 class="w">{{s1}} + {{s2}} = {{s1+s2}}</h4> <!-- "{{s1}}" şeklinde yazarak "s1" değişkenimizi ekrana basıyoruz -->
+<h4 class="w">{{s1}} + {{s2}} = {{s1+s2}}</h4> <!-- Değişkeni ekrana basmak için {{s1}} -->
 <hr>
 <br>
-<h4 class="w">{{s1}} - {{s2}} = {{s1-s2}}</h4> <!-- "{{s1-s2}}" şeklinde yazarak birden fazla değişkenin toplanması, çıkarılması, çarpılması veya bölünmesini sağlıyoruz -->
+<h4 class="w">{{s1}} - {{s2}} = {{s1-s2}}</h4> <!-- Değikenler ile işlemler yapmak için {{s1+s2}} -->
 <br>
 <hr>
 <br>
@@ -59,7 +61,7 @@
 <br>
 <hr>
 <br>
-<h4 class="w">{{s1}} % {{s2}} = {{s1*s2/100}}</h4> <!-- Birden fazla işlem de yapılabilir -->
+<h4 class="w">{{s1}} % {{s2}} = {{s1*s2/100}}</h4> <!-- Değişkenler ile birden fazla işlem yapmak için {{s1*s2/100}} -->
 <br>
 <hr>
 <br>
@@ -103,5 +105,5 @@ LICENSE: <strong><a href="https://github.com/wstatic/hizli_hesap/blob/master/LIC
     <link rel="stylesheet" href="css/noscript.css">
     </noscript>
         </body>
-<script async src="https://cdn.jsdelivr.net/npm/angular@1.6/angular.min.js"></script> <!-- Angular.js (zorunlu) -->
+<script async src="https://cdn.jsdelivr.net/npm/angular@1.6/angular.min.js"></script> <!-- Angular.js (zorunlu) Kurulum için: https://angularjs.org/ ya da jsDelivr kullanarak-->
                 </html>
