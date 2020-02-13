@@ -11,7 +11,7 @@
 ```
 ## Angular uygulamamızın geçerli olucağı sınırları belirlirlemek:
 ```
-  <html data-ng-app>
+<html data-ng-app>
 ```
 ## Değişkenimizi inputa bağlamak:
 ```
