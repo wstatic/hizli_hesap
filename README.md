@@ -5,7 +5,7 @@
 ### * Toplama(+), çıkarma(-), çarpma(*), bölme(/)
 ### * Angular.js kullanırken async ile çağırmayınız
 ### * Data-ng w3 schools ve resmi websitesinin önerdiği okumanın rahat olduğu biçimdir istenirse sadece ng ile de başlanabilir
-## Kurulum için https://angularjs.org/ ya da jsDelivr kullanarak:
+## Kurulum için <a href="https://angularjs.org/" target="_blank">https://angularjs.org/</a> ya da jsDelivr kullanarak:
 ```
 <script src="https://cdn.jsdelivr.net/npm/angular@sürüm/angular.min.js"></script>
 ```
@@ -50,6 +50,12 @@ LICENSE: <strong><a href="https://github.com/wstatic/hizli_hesap/blob/master/LIC
   <br>
   <br>
   SITE MAP: <strong><a href="https://github.com/wstatic/hizli_hesap/blob/master/docs/sitemap.xml" target="_blank">https://github.com/wstatic/hizli_hesap/blob/master/docs/sitemap.xml</a></strong>
+    <br>
+    <br>
+      PROJECT THEME NAME: <strong>Cayman Theme</strong>
+    <br>
+    <br>
+    PROJECT THEME: <strong><a href="https://github.com/wstatic/hizli_hesap/blob/master/_config.yml" target="_blank">https://github.com/wstatic/hizli_hesap/blob/master/_config.yml</a></strong>
     <br>
     <br>
     README.md FILE: <strong><a href="https://github.com/wstatic/hizli_hesap/blob/master/README.md" target="_blank">https://github.com/wstatic/hizli_hesap/blob/master/README.md</a></strong>
