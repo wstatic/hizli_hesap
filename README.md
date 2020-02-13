@@ -1,8 +1,6 @@
 # Hızlı Hesap: Angularjs ile Basit Hesap Makinesi Örneği
-<br>
 ## ÖNEMLİ BİLGİLER:
   ### * Değişkenler, fonksiyonlar vb.. Türkçe karakter kullanmayın
-    <br>
 ### * En son Angular.js stabil sürümü kullanmaya özen gösterin
    ## Angular uygulamamızın geçerli olucağı sınırları belirlirleme
   ```
