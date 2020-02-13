@@ -1,4 +1,4 @@
-# <a href="/docs" target="_blank">Hızlı Hesap: Angularjs ile Basit Hesap Makinesi Örneği</a>
+# <a href="hizli_hesap/docs" target="_blank">Hızlı Hesap: Angularjs ile Basit Hesap Makinesi Örneği</a>
 ## ÖNEMLİ BİLGİLER:
 ### * Değişkenler, fonksiyonlar vb.. Türkçe karakter kullanmayın
 ### * En son Angular.js stabil sürümü kullanmaya özen gösterin
