@@ -1,10 +1,29 @@
-<strong># Hızlı Hesap: Angularjs ile Basit Hesap Makinesi Örneği</strong>
+# Hızlı Hesap: Angularjs ile Basit Hesap Makinesi Örneği
 ## ÖNEMLİ BİLGİLER:
   ### * Değişkenler, fonksiyonlar vb.. Türkçe karakter kullanmayın
 ### * En son Angular.js stabil sürümü kullanmaya özen gösterin
+### * Toplama(+), çıkarma(-), çarpma(*), bölme(/)
+### * Angular.js kullanırken async ile çağırmayınız
+### * Data-ng w3 schools ve resmi websitesinin önerdiği okumanın rahat olduğu biçimdir istenirse sadece ng ile de başlanabilir
+## Kurulum için https://angularjs.org/ ya da jsDelivr kullanarak:
+```
+<script src="https://cdn.jsdelivr.net/npm/angular@sürüm/angular.min.js"></script>
+```
    ## Angular uygulamamızın geçerli olucağı sınırları belirlirleme
   ```
   <html data-ng-app>
+```
+## Değişkenimizi inputa bağlıyoruz:
+```
+<input data-ng-model="s1">
+```
+## Değişkeni ekrana basma:
+```
+{{s1}}
+```
+## Değikenler ile işlemler:
+```
+{{s1+s2}}
 ```
 <p>
   <details>
