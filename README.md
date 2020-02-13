@@ -17,15 +17,15 @@
 ```
 <input data-ng-model="s1">
 ```
-## Değişkeni ekrana basmak:dd
+## Değişkeni ekrana basmak: (iki süslü parantez kullanınız)
 ```
-{{s1}}
+{s1}
 ```
-## Değikenler ile işlemler yapmak:
+## Değikenler ile işlemler yapmak: (iki süslü parantez kullanınız)
 ```
 {s1+s2}
 ```
-## Değişkenler ile birden fazla işlem yapmak:
+## Değişkenler ile birden fazla işlem yapmak: (iki süslü parantez kullanınız)
 ```
 {s1*s2/100}
 ```
