@@ -15,19 +15,19 @@
 ```
 ## Değişkenimizi inputa bağlamak:
 ```
-<input data-ng-model="değişken1">
+<input data-ng-model="s1">
 ```
 ## Değişkeni ekrana basmak:
 ```
-{{değişken1}}
+{{s1}}
 ```
 ## Değikenler ile işlemler yapmak:
 ```
-{{değişken1+değişken2}}
+{{s1+s2}}
 ```
 ## Değişkenler ile birden fazla işlem yapmak:
 ```
-{{değişken1*değişken2/100}}
+{{ s1*s2/100 }}
 ```
 <p>
   <details>
