@@ -1,6 +1,6 @@
 # <a href="/docs" target="_blank">Hızlı Hesap: Angularjs ile Basit Hesap Makinesi Örneği</a>
 ## ÖNEMLİ BİLGİLER:
-  ### * Değişkenler, fonksiyonlar vb.. Türkçe karakter kullanmayın
+### * Değişkenler, fonksiyonlar vb.. Türkçe karakter kullanmayın
 ### * En son Angular.js stabil sürümü kullanmaya özen gösterin
 ### * Toplama(+), çıkarma(-), çarpma(*), bölme(/)
 ### * Angular.js kullanırken async ile çağırmayınız
@@ -9,8 +9,8 @@
 ```
 <script src="https://cdn.jsdelivr.net/npm/angular@sürüm/angular.min.js"></script>
 ```
-   ## Angular uygulamamızın geçerli olucağı sınırları belirlirlemek:
-  ```
+## Angular uygulamamızın geçerli olucağı sınırları belirlirlemek:
+```
   <html data-ng-app>
 ```
 ## Değişkenimizi inputa bağlamak:
