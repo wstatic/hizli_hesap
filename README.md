@@ -21,7 +21,7 @@
 ```
 {{s1}}
 ```
-## Değikenler ile işlemler:
+## Değikenler ile işlemler yapmak:
 ```
 {{s1+s2}}
 ```
