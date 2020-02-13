@@ -25,6 +25,10 @@
 ```
 {{s1+s2}}
 ```
+## Değişkenler ile birden fazla işlem yapmak:
+```
+{{s1*s2/100}}
+```
 <p>
   <details>
   <summary><button><strong>PROJECT INFO</strong></button></summary>
