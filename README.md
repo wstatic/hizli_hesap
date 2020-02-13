@@ -9,15 +9,15 @@
 ```
 <script src="https://cdn.jsdelivr.net/npm/angular@sürüm/angular.min.js"></script>
 ```
-   ## Angular uygulamamızın geçerli olucağı sınırları belirlirleme
+   ## Angular uygulamamızın geçerli olucağı sınırları belirlirlemek:
   ```
   <html data-ng-app>
 ```
-## Değişkenimizi inputa bağlama:
+## Değişkenimizi inputa bağlamak:
 ```
 <input data-ng-model="s1">
 ```
-## Değişkeni ekrana basma:
+## Değişkeni ekrana basmak:
 ```
 {{s1}}
 ```
