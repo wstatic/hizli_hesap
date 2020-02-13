@@ -19,7 +19,7 @@
 ```
 ## Değişkeni ekrana basmak:
 ```
-{{s1}}
+{{s1}}ff
 ```
 ## Değikenler ile işlemler yapmak:
 ```
