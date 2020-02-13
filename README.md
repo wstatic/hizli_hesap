@@ -1,5 +1,5 @@
 # Hızlı Hesap: Angularjs ile Basit Hesap Makinesi Örneği
-<br>
+<br
 ## ÖNEMLİ BİLGİLER:
   ### * Değişkenler, fonksiyonlar vb.. Türkçe karakter kullanmayın
     <br>
